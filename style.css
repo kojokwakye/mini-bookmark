@@ -1,0 +1,24 @@
+body {
+  background-color: rgba(218, 136, 112, 0.925);
+}
+
+h1 {
+  font-weight: lighter;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.white {
+  color: whitesmoke;
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(128, 156, 156);
+}
