@@ -1,11 +1,12 @@
 body {
-  background-color: rgba(218, 136, 112, 0.925);
+  background-color: rgba(83, 153, 115, 0.925);
   text-align: center;
 }
 
 h1 {
   font-weight: lighter;
   color: whitesmoke;
+  border-bottom: 2px solid rgba(5, 2, 2, 0.644);
 }
 
 .white {
