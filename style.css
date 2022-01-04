@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(83, 153, 115, 0.925);
+  background-color: rgb(5 26 14 / 65%);
   text-align: center;
 }
 
@@ -9,9 +9,7 @@ h1 {
   border-bottom: 2px solid rgba(5, 2, 2, 0.644);
 }
 
-.white {
-  color: whitesmoke;
-}
+
 
 a:link,
 a:visited {
