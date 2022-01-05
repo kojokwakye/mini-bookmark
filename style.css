@@ -1,21 +1,21 @@
 body {
-  background-color: rgb(5 26 14 / 65%);
-  text-align: center;
+    background-color: rgb(5 26 14 / 65%);
+    text-align: center;
 }
 
 h1 {
-  font-weight: lighter;
-  color: whitesmoke;
-  border-bottom: 2px solid rgba(5, 2, 2, 0.644);
+    font-weight: lighter;
+    color: whitesmoke;
+    border-bottom: 2px solid rgba(5, 2, 2, 0.644);
 }
 
 a:link,
 a:visited {
-  text-decoration: none;
-  color: whitesmoke;
+    text-decoration: none;
+    color: whitesmoke;
 }
 
 a:hover {
-  text-decoration: none;
-  color: rgb(128, 156, 156);
+    text-decoration: none;
+    color: rgb(128, 156, 156);
 }
