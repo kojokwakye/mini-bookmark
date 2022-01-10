@@ -6,7 +6,8 @@ body {
 h1 {
     font-weight: lighter;
     color: whitesmoke;
-    border-bottom: 2px solid rgba(5, 2, 2, 0.644);
+    /* border-bottom: 2px solid rgba(5, 2, 2, 0.644);*/
+    text-decoration: underline;
 }
 
 a:link,
