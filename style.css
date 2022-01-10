@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(5 26 14 / 65%);
+    background-color: rgba(129, 58, 88, 0.65);
     text-align: center;
 }
 
@@ -8,6 +8,7 @@ h1 {
     color: whitesmoke;
     /* border-bottom: 2px solid rgba(5, 2, 2, 0.644);*/
     text-decoration: underline;
+    text-decoration-color: rgba(49, 41, 41, 0.747);
 }
 
 a:link,
