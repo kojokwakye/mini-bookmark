@@ -7,8 +7,15 @@ h1 {
     font-weight: lighter;
     color: whitesmoke;
     /* border-bottom: 2px solid rgba(5, 2, 2, 0.644);*/
+    animation: mymove 10s infinite;
     text-decoration: underline;
     text-decoration-color: rgba(49, 41, 41, 0.747);
+}
+
+@keyframes mymove {
+    10% {
+        color: rgb(75, 36, 36);
+    }
 }
 
 a:link,
