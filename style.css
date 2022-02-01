@@ -9,12 +9,6 @@ h1 {
     border-bottom: 2px solid rgba(5, 2, 2, 0.644);
 }
 
-@keyframes mymove {
-    10% {
-        color: rgb(75, 36, 36);
-    }
-}
-
 a:link,
 a:visited {
     text-decoration: none;
