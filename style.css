@@ -1,3 +1,8 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
 body {
     background-color: rgba(129, 58, 88, 0.65);
     text-align: center;
@@ -6,7 +11,8 @@ body {
 h1 {
     font-weight: lighter;
     color: whitesmoke;
-    border-bottom: 2px solid rgba(5, 2, 2, 0.644);
+    text-decoration: underline;
+    text-decoration-color: black;
 }
 
 a:link,
