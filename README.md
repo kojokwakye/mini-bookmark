@@ -1,4 +1,4 @@
-i don't like keeping alot of things in my bookmark tab so i made *[this](https://kojokwakye.github.io/luke23-34/)*.  
+*[this](https://kojokwakye.github.io/luke23-34/)* only exists because i don't like keeping alot of things in my bookmark tab
 
 - dont ask me why i didn't create a folder in my bookmarks. i wouldn't have an answer for you
 
