@@ -1,3 +1,10 @@
-**[THIS](https://kojokwakye.github.io/luke23-34/)** only exists because i didn't like the way my notes app handles links. and also a lot of tabs and bookmarks in your browser makes it ugly  
+i don't like keeping alot of things in my bookmark tab so i made *[this](https://kojokwakye.github.io/luke23-34/)*.  
 
-i don't own **[this](https://proxybay.github.io/)**. it is bascially a poxy site for _pirate bay_ that allows you to pybass blocks.
+- dont ask me why i didn't create a folder in my bookmarks. i wouldn't have an answer for you
+
+- i don't own *[this](https://proxybay.github.io/)*.  
+it is bascially a poxy site for *pirate bay* that allows you to pybass blocks.
+
+
+
+
