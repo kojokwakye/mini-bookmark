@@ -3,7 +3,9 @@
 - dont ask me why i didn't create a folder in my bookmarks. i wouldn't have an answer for you
 
 - i don't own *[this](https://proxybay.github.io/)*.  
-it is bascially a poxy site for *pirate bay* that allows you to pybass blocks.
+it is bascially a poxy site for *pirate bay* that allows you to pybass blocks.  
+
+- i can share everything in one time
 
 
 
