@@ -9,11 +9,10 @@ body {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 40px;
     font-weight: lighter;
+    font-family: 'Amatic SC', cursive;
     color: whitesmoke;
-    text-decoration: underline;
-    text-decoration-color: black;
 }
 
 a:link,
