@@ -5,7 +5,7 @@
 - i don't own *[this](https://proxybay.github.io/)*.  
 it is bascially a poxy site for *pirate bay* that allows you to pybass blocks.  
 
-- i can share everything in one time
+- i can share every link in one time
 
 
 
