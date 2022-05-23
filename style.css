@@ -1,12 +1,16 @@
 body {
   background-color: rgba(129, 58, 88, 0.65);
   text-align: center;
+  min-height: 100%;
 }
 
 h1 {
   font-size: 20px;
   font-family: "Amatic SC", cursive;
   color: whitesmoke;
+  border-bottom: solid green;
+  border-bottom-width: thin; 
+  
 }
 
 a:link,
