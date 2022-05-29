@@ -2,6 +2,7 @@ body {
   background-color: rgba(129, 58, 88, 0.65);
   text-align: center;
   min-height: 100%;
+  /* font-size: 18px; */
 }
 
 h1 {
