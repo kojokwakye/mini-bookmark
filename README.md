@@ -2,7 +2,7 @@
 
 - ignore everything here.
 
-- & [this](https://proxybay.github.io/) is bascially a poxy site for *pirate bay* that allows you to pybass blocks. i don't own this
+- & [this](https://proxybay.github.io/) is bascially a list of poxy sites for *pirate bay* that allows you to pybass blocks. i don't own this
 
 
 
