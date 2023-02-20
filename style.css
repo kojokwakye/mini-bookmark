@@ -3,6 +3,7 @@ body {
   text-align: center;
   min-height: 100%;
   /* font-size: 18px; */
+  overflow: hidden;
 }
 
 h1 {
