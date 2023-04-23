@@ -12,11 +12,9 @@ body {
     #41295a
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-  /* text-align: center; */
   min-height: 100%;
-  color: #4bdbb9;
-  /* font-size: 18px; */
-  /* overflow: hidden; */
+  color: whitesmoke;
+  margin: 20px 30px;
 }
 
 h1 {
@@ -27,7 +25,8 @@ h1 {
 a:link,
 a:visited {
   text-decoration: none;
-  color: whitesmoke;
+
+  color: #4bdbb9;
 }
 
 a:hover {
