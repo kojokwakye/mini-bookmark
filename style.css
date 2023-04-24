@@ -1,3 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   /* background-color: rgba(129, 58, 88, 0.65); */
   background: #41295a; /* fallback for old browsers */
@@ -12,20 +18,22 @@ body {
     #41295a
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
-  min-height: 100%;
+  min-height: 100vh;
   color: whitesmoke;
-  margin: 20px 30px;
+  width: 100vw;
 }
-
+p {
+  margin: 20px;
+}
 h1 {
   font-size: 20px;
   color: whitesmoke;
+  margin: 20px;
 }
 
 a:link,
 a:visited {
   text-decoration: none;
-
   color: #4bdbb9;
 }
 
