@@ -20,7 +20,7 @@ body {
 
   min-height: 100vh;
   color: whitesmoke;
-  width: 100%;
+  width: 100vw;
 }
 p {
   margin: 20px;
@@ -40,4 +40,12 @@ a:visited {
 a:hover {
   text-decoration: none;
   color: rgb(20, 61, 61);
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+
+  height: 2.5rem;
+  margin: 20px;
 }
