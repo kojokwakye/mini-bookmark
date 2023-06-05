@@ -1,8 +1,8 @@
 **[This](https://kojokwakye.github.io/luke23-34/)** only exists because i don't like keeping alot of things in my bookmark tabs
 
-- ignore everything here.
+- i'm not using folders because i want to be able to share this and access it on any device. 
 
-- & [this](https://proxybay.github.io/) is bascially a list of poxy sites for *pirate bay* that allows you to pybass blocks. i don't own this
+
 
 
 
