@@ -19,7 +19,7 @@ body {
 
   min-height: 100vh;
   color: whitesmoke;
-  /* width: 100vw; */
+  overflow: hidden;
 }
 p {
   margin: 20px;
