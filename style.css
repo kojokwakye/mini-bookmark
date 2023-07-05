@@ -19,7 +19,9 @@ body {
 
   min-height: 100vh;
   color: whitesmoke;
-  overflow: hidden;
+  /* overflow: hidden; */
+  font-family: monospace;
+  font-size: 1.3em;
 }
 p {
   margin: 20px;
@@ -44,4 +46,7 @@ a:visited {
 a:hover {
   text-decoration: none;
   color: rgb(20, 61, 61);
+}
+
+@media screen {
 }
