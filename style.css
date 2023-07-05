@@ -19,7 +19,7 @@ body {
 
   min-height: 100vh;
   color: whitesmoke;
-  /* overflow: hidden; */
+  overflow: hidden;
   font-family: monospace;
   font-size: 1.3em;
 }
@@ -48,5 +48,8 @@ a:hover {
   color: rgb(20, 61, 61);
 }
 
-@media screen {
+@media screen and (max-device-width: 768px) {
+  body {
+    overflow: auto;
+  }
 }
