@@ -21,7 +21,6 @@ body {
   overflow: auto;
   font-family: monospace;
   font-size: 1.3em;
-  /* overflow: hidden; */
 }
 p {
   margin: 20px;
